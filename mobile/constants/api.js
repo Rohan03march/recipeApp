@@ -1,0 +1,1 @@
+export const API_URL = "https://recipeappapi-nvc5.onrender.com/api"
